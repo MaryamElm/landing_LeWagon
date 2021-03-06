@@ -109,7 +109,7 @@ p {
 .footer {
   background: #404042;
   text-align: center;
-  padding: 24px 0;
+  padding: 24px 24px;
 }
 
 .footer p {
