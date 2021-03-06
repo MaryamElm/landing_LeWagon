@@ -112,9 +112,10 @@ p {
   padding: 24px 24px;
 }
 .flw a {
-  color: #C37D6A;
+  color: white;
   padding: 10px 48px;
   display: inline-block;
+  border-radius: 2px;
   text-decoration: none;
  
 }
