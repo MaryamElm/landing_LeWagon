@@ -113,6 +113,12 @@ p {
 }
 .footer1 a{
   color: #0D20C7;
+  background-color: #1A48E3;
+  padding: 16px 48px;
+  border-radius: 4px;
+  display: inline-block;
+  text-decoration: none;
+  transition: .3s;
 }
 .footer p {
   color: white;
