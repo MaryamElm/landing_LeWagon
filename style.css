@@ -111,7 +111,9 @@ p {
   text-align: center;
   padding: 24px 24px;
 }
-
+.footer1{
+  color: #0D1EC6;
+}
 .footer p {
   color: white;
 }
